@@ -1,0 +1,24 @@
+project structure of playwright
+scope of fixtures and use of them
+how to select dropdown and custom dropdown
+data driven - excel and other data
+allure reports
+screenshots of failures
+default time wait by playwright
+expect and wait keywords
+how you run your tests in different environments
+how to download files in playwright
+
+data driven
+scalability and maintainbility
+sql where and having
+non repeating string
+multiple browsers ela istham
+checked and unchecked exceptions
+how to secure api creds
+dynamic and frequently changed values
+test lo multiple browsers
+how to handle exceptions
+critical scenario how to overcome with playwright
+how to paramterize the environments in playwright
+how ypu select a date
