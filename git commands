@@ -1,0 +1,30 @@
+git init - to initia
+
+git cline repo URL - to fetch the repo from server to local
+
+git Branch - to check the preset Branch
+
+git branch -b NewBranchName - to create a new branch with existing code
+
+git add .  -- to add the changes into the local Git Repo
+
+git commit -m "Message" - to commit the changes with a message which were added through git add .
+
+git push origin/branchName - to push changes into a particular branch
+
+git status - to check the merge conflicts 
+
+git log - to check the previous commits
+
+git diff - which shows the difference btw previous and current commit
+
+git pull origin/ git pull - to pull the latest changes from server
+
+git reavert - 
+
+git rebase - to merge the changes at the point where the feature/ some branch and then the feature will be deleted and code will merge to develop branch
+
+git cherrypick - to merge few commits
+
+
+
